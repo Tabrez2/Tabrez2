@@ -24,6 +24,7 @@ I'm a passionate Java developer specializing in building robust web applications
 ![Tabrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabrez2&show_icons=true&theme=radical)
 
 ### 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" />
@@ -32,3 +33,6 @@ I'm a passionate Java developer specializing in building robust web applications
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="48" />
 </p>
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
+
