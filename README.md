@@ -24,21 +24,13 @@ I'm a passionate Java developer specializing in building robust web applications
 ![Tabrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabrez2&show_icons=true&theme=radical)
 
 ### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
-- **Java**:  
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
-- **Spring**:  
-  ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
-
-- **HTML5**:  
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-
-- **CSS3**:  
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-
-- **Git**:  
-  ![Git](https://img.icons8.com/color/48/000000/git.png)
-
-- **MySQL**:  
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" />
+</p>
