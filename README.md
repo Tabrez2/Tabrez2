@@ -24,8 +24,21 @@ I'm a passionate Java developer specializing in building robust web applications
 ![Tabrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabrez2&show_icons=true&theme=radical)
 
 ### 🛠️ Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img
+
+- **Java**:  
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+- **Spring**:  
+  ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
+
+- **HTML5**:  
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+
+- **CSS3**:  
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+
+- **Git**:  
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
+
+- **MySQL**:  
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
